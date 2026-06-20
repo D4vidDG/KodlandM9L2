@@ -1,2 +1,2 @@
-print("Estoy programando");
-print("¿Como estas");
+print("Hola Mundo!");
+print("Disparar");
